@@ -10,12 +10,23 @@
 NOTE: It worked when in Xcode I removed all the fonts from Build phases.
 
 # TODO
+- [X] Push the code to Repository for versioning control and being able to revert if something brakes.
+  - **Status:** Done
+  - **Owner:** AndreaSprea22
 
-- Push the code to Repository for versioning control and being able to revert if something brakes.
+- [X] Add icons to View and to bottom navigation bar
+  - **Status:** Done
+  - **Owner:** AndreaSprea22
+
+- [ ] Better structure code within Index.js and understand how to split the code (e.g. navigation bar in anotehr module)
+  - **Status:** To Do
+  - **Owner:** AndreaSprea22
+
+- [ ] Login function at the moment is returning a simple constant Bool. Define here the logic for Firebase.
+  - **Status:** To Do
+  - **Owner:** 
 
 # Start the App
-
-
 
 >**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions.
 
