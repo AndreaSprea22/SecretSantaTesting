@@ -18,7 +18,7 @@ NOTE: It worked when in Xcode I removed all the fonts from Build phases.
   - **Status:** Done
   - **Owner:** AndreaSprea22
 
-- [ ] Better structure code within Index.js and understand how to split the code (e.g. navigation bar in anotehr module)
+- [ ] Better structure code within Index.js and understand how to split the code. Asked ChatGPT and provided quite good overview, still to be implemented and tested.
   - **Status:** To Do
   - **Owner:** AndreaSprea22
 
