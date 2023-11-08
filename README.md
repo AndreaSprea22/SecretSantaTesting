@@ -22,9 +22,31 @@ NOTE: It worked when in Xcode I removed all the fonts from Build phases.
   - **Status:** Done
   - **Owner:** AndreaSprea22
 
-- [ ] Login function at the moment is returning a simple constant Bool. Define here the logic for Firebase.
+- [ ] Register function logic. Implement normal registration flow and store data on Firebae.
   - **Status:** To Do
   - **Owner:** 
+
+- [ ] Login function logic. Implement normal login flow checking the data stored on Firebae.
+  - **Status:** To Do
+  - **Owner:** 
+
+- [ ] Display Page with your personal information.
+  - **Status:** To Do
+  - **Owner:** 
+
+- [ ] Allow users to change his own information/preferences/details.
+  - **Status:** To Do
+  - **Owner:** 
+
+- [ ] Register with Google logic.
+  - **Status:** To Do
+  - **Owner:** 
+
+- [ ] Login with Google logic.
+  - **Status:** To Do
+  - **Owner:** 
+
+
 
 # Start the App
 
