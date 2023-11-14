@@ -9,6 +9,9 @@
 7) Adding icons following this tutorial: https://github.com/oblador/react-native-vector-icons#ios-setup
 NOTE: It worked when in Xcode I removed all the fonts from Build phases.
 
+# Miro Board with Details
+https://miro.com/app/board/uXjVNOm0QjA=/
+
 # TODO
 - [X] Push the code to Repository for versioning control and being able to revert if something brakes.
   - **Status:** Done
